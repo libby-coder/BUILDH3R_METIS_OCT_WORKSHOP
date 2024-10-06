@@ -1,5 +1,12 @@
 # Using Scaffold-ETH 2 to deploy a dApp on Metis L2
 
+## For Buildh3r Workshop: The Deployed contract detials is below
+
+```
+Transaction id: 0xbbc3cd22fb07dcb7922ccb5b1edab731a85b4d8c741a3392ba26434de68baca5
+Address: 0x1707ffA2b5d66f0F11D536eF3Ed49eE657BD4CAD
+```
+
 Follow this tutorial to create a quick dApp prototype and to deploy on Metis.
 
 ## Requirements
